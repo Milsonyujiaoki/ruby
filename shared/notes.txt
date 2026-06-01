@@ -1,0 +1,31 @@
+Ruby foi criada por um japones Yukihiro Matsumoto - primeira versão em 1995
+
+Seu objetivo era - "fazer os programadores felizes"
+
+Perl - Flexibilidade
+Python - Simplicidade
+Smalltalk - Puro Object-Oriented
+Lisp - Elegancia
+Eiffel - Design
+
+A linguagem é interpretada
+antigamente funcionava sobre uma vm, atualmente existe o Just-in-time Compilation
+
+É fortemente tipada
+
+Paradigmas:
+-Orientação a objetos
+-Procedural
+-Funcional
+-Metaprogramação
+
+Tudo é objeto em Ruby
+
+O ruby nao é single thread mas existe o GIL/GVL - Multiplas threads + execução paralela real
+-fork de processos
+-ractors
+-Jruby
+-TruffleRuby
+-Async
+
+Possui garbage collector
